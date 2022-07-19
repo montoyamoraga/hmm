@@ -7,3 +7,6 @@ env/
 # test files
 test.mp4
 test.vtt
+
+# output file
+supercut.mp4
