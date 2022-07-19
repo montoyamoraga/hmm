@@ -3,3 +3,7 @@
 
 # Python3 virtual environment
 env/
+
+# test files
+test.mp4
+test.vtt
