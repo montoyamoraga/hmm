@@ -1,2 +1,4 @@
 videogrep
 vosk
+yt-dlp
+spacy
